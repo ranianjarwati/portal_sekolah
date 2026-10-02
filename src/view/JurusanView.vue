@@ -23,6 +23,21 @@
                         <h3>Desain Komunikasi Visual</h3>
                         <p>Desain grafis, UI/UX, multimedia, dan branding untuk industri kreatif digital.</p>
                     </div>
+                    <div class="jurusan-card">
+                        <div class="jurusan-icon" style="background:linear-gradient(135deg,#d97706,#f59e0b)"><i class="fas fa-calculator"></i></div>
+                        <h3>Akuntansi &amp; Keuangan Lembaga</h3>
+                        <p>Pengelolaan keuangan perusahaan, perpajakan, dan aplikasi akuntansi modern.</p>
+                    </div>
+                    <div class="jurusan-card">
+                        <div class="jurusan-icon" style="background:linear-gradient(135deg,#dc2626,#f87171)"><i class="fas fa-chart-line"></i></div>
+                        <h3>Bisnis Digital &amp; Pemasaran</h3>
+                        <p>Strategi e-commerce, digital marketing, social media management, dan kewirausahaan.</p>
+                    </div>
+                    <div class="jurusan-card">
+                        <div class="jurusan-icon" style="background:linear-gradient(135deg,#2563eb,#60a5fa)"><i class="fas fa-car"></i></div>
+                        <h3>Teknik Kendaraan Ringan Otomotif</h3>
+                        <p>Perawatan, perbaikan, dan teknologi mesin kendaraan modern serta kelistrikan otomotif.</p>
+                    </div>
                 </div>
             </div>
         </section>
